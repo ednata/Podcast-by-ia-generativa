@@ -38,10 +38,10 @@ O formato do roteiro deve ser:
 [FINALIZAÇÃO]
 
 {REGRAS}
-	No bloco [INTRODUÇÃO] substitua por uma introdução ao assunto “comunicação não violenta” de forma enxuta e bem-humorada voltado para bancários
-	No bloco [TÓPICO 1] fale sobre sua importância tanto para as conversas entre empregados como para com clientes, dando exemplo.
-	No bloco [FINALIZAÇÃO] faça uma conclusão visualizando um futuro mais leve e feliz com a prática da comunicação não violenta.
-	Todos os tópicos devem ser falados de forma bem-humorada e com leveza.
+-	No bloco [INTRODUÇÃO] substitua por uma introdução ao assunto “comunicação não violenta” de forma enxuta e bem-humorada voltado para bancários
+-	No bloco [TÓPICO 1] fale sobre sua importância tanto para as conversas entre empregados como para com clientes, dando exemplo.
+-	No bloco [FINALIZAÇÃO] faça uma conclusão visualizando um futuro mais leve e feliz com a prática da comunicação não violenta.
+-	Todos os tópicos devem ser falados de forma bem-humorada e com leveza.
 
 [INTRODUÇÃO]
 Olá, bancários! Hoje vamos falar sobre comunicação não violenta – um jeito de conversar mais leve e eficiente. No ambiente bancário, onde lidamos com clientes e colegas o tempo inteiro, aplicar essa prática pode transformar qualquer conversa e, de quebra, melhorar o clima no trabalho. Vamos descobrir como?
