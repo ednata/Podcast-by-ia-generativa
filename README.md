@@ -8,7 +8,7 @@ Programas utilizados:
 - ChatGPT
 - Leonardo AI
 - Eleven Labs
--CapCut
+- CapCut
 
 Estes programas foram utilizados para:
 - ChatGPT: 
